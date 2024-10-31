@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Frank Höfer <frankhoefer@arcor.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Your web server is not configured properly to use this plugin. This plugin uses the cURL Library to communicate with the Nomads Connected Server, however the cURL support for PHP is currently disabled. Please contact your web server administrator/provider."
+msgstr "Dein Webserver ist nicht richtig konfiguriert, um das Plugin zu benutzen. Das Plugin verwendet die cURL-Bibliothek f&uuml;r die Kommunikation mit dem Nomads Connected Server, aber die cURL-Unterst&uuml;tzung f&uuml;r PHP ist momentan deaktiviert. Bitte kontaktiere Deinen Webserver-Administrator bzw. Provider."
+
+msgid "Before you can use the plugin you must acquire a free <a href=\"http://code.google.com/apis/maps/signup.html\">Google API Key</a> for your blog - the plugin will not function without it!"
+msgstr "Bevor Du dieses Plugin benutzen kannst, musst Du einen kostenlosen <a href=\"http://code.google.com/apis/maps/signup.html\">Google API-Schl&uuml;ssel</a> f&uuml;r Deinen Blog besorgen. Das Plugin wird ohne ihn nicht funktionieren."
+
+msgid "Before you can use the plugin you must activate the <a href=\"http://www.nomadsconnected.com/settings/systemSettings.html\">API Key</a> for your Nomads Connected account - the plugin will not function without it!"
+msgstr "Bevor Du dieses Plugin benutzen kannst, musst Du den <a href=\"http://www.nomadsconnected.com/settings/systemSettings.html\">API-Schl&uuml;ssel</a> f&uuml;r Deinen Nomads Connected Account aktivieren. Das Plugin wird ohne ihn nicht funktionieren."
+
+msgid "If you are not registered with Nomads Connected yet you must <a href=\"http://www.nomadsconnected.com/access/register.html\">create a free account</a> first."
+msgstr "Wenn Du noch nicht bei Nomads Connected registriert bist, musst Du zuerst einen <a href=\"http://www.nomadsconnected.com/access/register.html\">kostenlosen Account anlegen</a>."
+
+msgid "Past Waypoints"
+msgstr "Ehemalige Wegpunkte"
+
+msgid "Could not read waypoints. Please check your settings!"
+msgstr "Die Wegpunkte konnten nicht gelesen werden. Bitte pr&uuml;fe Deine Einstellungen!"
+
+msgid "Nomads Connected settings updated"
+msgstr "Nomads Connected Einstellungen gespeichert"
+
+msgid "Nomads Connected Settings"
+msgstr "Nomads Connected Einstellungen"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Google API Key"
+msgstr "Google API-Schl&uuml;ssel"
+
+msgid "Nomads Connected API Key"
+msgstr "Nomads Connected API-Schl&uuml;ssel"
+
+msgid "Map Display Settings"
+msgstr "Kartendarstellung"
+
+msgid "Default Map Type"
+msgstr "Standard-Kartentyp"
+
+msgid "Map"
+msgstr "Karte"
+
+msgid "Satellite"
+msgstr "Satellit"
+
+msgid "Hybrid"
+msgstr "Hybrid"
+
+msgid "Map Height"
+msgstr "H&ouml;he der Karte"
+
+msgid "Route Display Settings"
+msgstr "Routenanzeige"
+
+msgid "Marker Color"
+msgstr "Markierungsfarbe"
+
+msgid "Black"
+msgstr "Schwarz"
+
+msgid "Blue"
+msgstr "Blau"
+
+msgid "Green"
+msgstr "Gr&uuml;n"
+
+msgid "Light Blue"
+msgstr "Hellblau"
+
+msgid "Pink"
+msgstr "Pink"
+
+msgid "Purple"
+msgstr "Violett"
+
+msgid "Red"
+msgstr "Rot"
+
+msgid "Dark Red"
+msgstr "Dunkelrot"
+
+msgid "Yellow"
+msgstr "Gelb"
+
+msgid "Connect Markers"
+msgstr "Markierungen verbinden"
+
+msgid "never"
+msgstr "nie"
+
+msgid "if they are not more than 1 day apart"
+msgstr "wenn sie nicht mehr als 1 Tag auseinander liegen"
+
+msgid "if they are not more than 2 days apart"
+msgstr "wenn sie nicht mehr als 2 Tage auseinander liegen"
+
+msgid "if they are not more than 3 days apart"
+msgstr "wenn sie nicht mehr als 3 Tage auseinander liegen"
+
+msgid "if they are not more than 1 week apart"
+msgstr "wenn sie nicht mehr als eine Woche auseinander liegen"
+
+msgid "Line Color for Past Routes"
+msgstr "Linienfarbe f&uuml;r zur&uuml;ckgelegte Routen"
+
+msgid "Line Color for Future Routes"
+msgstr "Linienfarbe f&uuml;r zuk&uuml;nftige Routen"
+
+msgid "Line Width"
+msgstr "Liniendicke"
+
+msgid "Pixels"
+msgstr "Pixel"
+
+msgid "Save Changes"
+msgstr "&Auml;nderungen Speichern"
+
+msgid "Nomads Connected"
+msgstr "Nomads Connected"
+
+msgid "Display Your Route"
+msgstr "Karte von Deiner Route anzeigen"
+
+msgid "From Date"
+msgstr "von Datum"
+
+msgid "Through Date"
+msgstr "bis Datum"
+
+msgid "Loading waypoints..."
+msgstr "Wegpunkte werden geladen..."
+
